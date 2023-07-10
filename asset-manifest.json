@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Music-Practice-App-V2/static/css/main.ad844312.css",
-    "main.js": "/Music-Practice-App-V2/static/js/main.beba1a6e.js",
+    "main.css": "/Music-Practice-App-V2/static/css/main.61c50b63.css",
+    "main.js": "/Music-Practice-App-V2/static/js/main.ccacc75b.js",
     "static/js/787.9fc12130.chunk.js": "/Music-Practice-App-V2/static/js/787.9fc12130.chunk.js",
     "index.html": "/Music-Practice-App-V2/index.html",
-    "main.ad844312.css.map": "/Music-Practice-App-V2/static/css/main.ad844312.css.map",
-    "main.beba1a6e.js.map": "/Music-Practice-App-V2/static/js/main.beba1a6e.js.map",
+    "main.61c50b63.css.map": "/Music-Practice-App-V2/static/css/main.61c50b63.css.map",
+    "main.ccacc75b.js.map": "/Music-Practice-App-V2/static/js/main.ccacc75b.js.map",
     "787.9fc12130.chunk.js.map": "/Music-Practice-App-V2/static/js/787.9fc12130.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad844312.css",
-    "static/js/main.beba1a6e.js"
+    "static/css/main.61c50b63.css",
+    "static/js/main.ccacc75b.js"
   ]
 }
